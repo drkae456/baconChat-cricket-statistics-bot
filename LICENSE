@@ -172,21 +172,21 @@
       defend, and hold each Contributor harmless for any liability
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
+   
+   10. COMMERCIAL USE PROVISIONS:
+  
+   - Any commercial use by organizations with >100 employees requires either:
+     a) 1 contributor per 100 employees (max 10) engaged monthly, OR
+     b) Payment of 10% of profits derived from this software or $100/month (whichever is higher)
+   - Companies in global top 1000 by revenue must maintain 25 dedicated contributors weekly
+   - False reporting of employee counts or profits will result in immediate termination of commercial rights
+   - These provisions aim to support sustainable open-source development by ensuring
+     large commercial users either contribute back or help fund maintenance efforts
+   - All money and profits will directly benefit the author and the open source community and will first be used to maintain the software and pay contributers and author for there time(this will be second to maintaining) All contributers and author will split remaining money evenly. Though it is the authors discreation, to how funds will be distributed, though at all time 20% of incoming commerical licencing fees or donations will be reserved to paying author and contributors, not just the author unless he is the only contributor
+   
+   Please email toppig@baconchat.org for commercial use inquiries.
 
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2025 Bryce Bacon
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
